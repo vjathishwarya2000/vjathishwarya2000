@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjathishwarya2000&label=Profile%20views&color=0e75b6&style=flat" alt="vjathishwarya2000" /> </p>
 
+- 🎓 Currently I'm Reading BSc(Hons) in Information Technology degree at University of Moratuwa, Sri Lanka.
+  
 - 🔭 I’m currently working on **MERN stack related projects**
 
 - 🌱 I’m currently learning **Springboot and ASP.NET**
