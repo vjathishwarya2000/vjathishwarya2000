@@ -9,7 +9,7 @@
   
 - 🔭 I’m currently working on **MERN stack related projects**
 
-- 🌱 I’m currently learning **Springboot and ASP.NET**
+- 🌱 I’m currently learning **Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vjathishwarya2000](https://github.com/vjathishwarya2000)
 
